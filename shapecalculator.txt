@@ -1,0 +1,30 @@
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        String figure = scanner.nextLine();
+
+        switch (figure) {
+            case "triangle":
+                double a = scanner.nextDouble();
+                double b = scanner.nextDouble();
+                double c = scanner.nextDouble();
+                double p = (a + b + c) / 2;
+                System.out.println(Math.sqrt(p * (p - a) * (p - b) * (p - c)));
+                break;
+            case "circle":
+                double r = scanner.nextDouble();
+                System.out.println(3.14 * r * r);
+                break;
+            case "rectangle":
+                double len = scanner.nextDouble();
+                double len1 = scanner.nextDouble();
+                System.out.println(len * len1);
+                break;
+            default:
+                System.out.println("Unknown shape");
+                break;
+        }
+    }
+}
