@@ -1,6 +1,6 @@
 # Hello, I am Naman Bhardwaj
 
-<img src="images/gify.gif" width=30%>
+<img src="images/gify.png" width=100%>
 
 
 ## Programming Languages I Know
