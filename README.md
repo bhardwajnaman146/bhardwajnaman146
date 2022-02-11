@@ -4,7 +4,7 @@
 
 
 ## Skills I Have
-<p align=center><img src="images/python-original.svg" width=7%><img src="images/pandas.png" width=7%><img src="images/sql.png" width=7%><img src="images/Java.png" width=7%></p>
+<p align=center><img src="images/python-original.svg" width=7%><img src="images/pandas.png" width=7%><img src="images/sql.png" width=7%><img src="images/pandas.png" width=7%></p>
 
 
 ## Tools I use
