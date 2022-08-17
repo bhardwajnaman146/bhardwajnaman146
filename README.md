@@ -1,6 +1,5 @@
 # Hello, I am Naman Bhardwaj  
-<img src="images/giphy.gif" width=30%>en" frameBorder="0" height="270" src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" width="480"></iframe></div>
-
+<img src="images/giphy.gif" width=30%>
 
 ## Programming Languages I Know
 <p align=center><img src="images/cplusplus-plain.svg" width=7%><img src="images/c-plain.svg" width=7%><img src="images/rjs.png" width=7%><img src="images/python-original.svg" width=7%><img src="/images/csh.png" width=7%></p>
