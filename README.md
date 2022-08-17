@@ -1,5 +1,5 @@
 # Hello, I am Naman Bhardwaj  
-<img src="images/gify.gif" width=30%>
+<img src="images/giphy.gif" width=30%>
 <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/8CYD7zQOYECt2UolVp/video" width="480"></iframe></div>
 
 
